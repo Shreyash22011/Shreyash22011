@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shreyash 
 
-<!--
-**Shreyash22011/Shreyash22011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd-year CSE student exploring different areas of computer science.  
+Currently focusing on **Python, MySQL, C++, DSA, and starting Machine Learning**.
 
-Here are some ideas to get you started:
+##  Skills & Learning
+- **Programming Languages:** C, Python, C++
+- **Databases:** MySQL
+- **Data Structures & Algorithms:** Currently learning in C++
+- **Machine Learning:** Beginning with basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Current Goals
+- Master DSA in C++
+- Build ML projects after learning foundations
+- Create useful projects combining databases and programming
+
+##  Repositories
+I upload:
+- Practice code
+- Mini-projects
+- Learning notes
+
+##  Connect
+- LinkedIn: https://www.linkedin.com/in/shreyash-pagare-a307ba379?utm_source
+- Email: shreyashp110@gmail.com

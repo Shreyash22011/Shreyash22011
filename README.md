@@ -1,4 +1,4 @@
-Hi, I'm Shreyash 👋  
+Hi, I'm Shreyash  
 2nd-year CSE student at VIT Pune  
 Focused on Data Structures & Algorithms and Flutter app development  
 

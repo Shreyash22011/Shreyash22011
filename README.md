@@ -1,25 +1,39 @@
-# Hi, I'm Shreyash 
+Hi, I'm Shreyash 👋  
+2nd-year CSE student at VIT Pune  
+Focused on Data Structures & Algorithms and Flutter app development  
 
-I'm a 2nd-year CSE student exploring different areas of computer science.  
-Currently focusing on **Python, MySQL, C++, DSA, and starting Machine Learning**.
+## Skills & Concepts
 
-##  Skills & Learning
-- **Programming Languages:** C, Python, C++
-- **Databases:** MySQL
-- **Data Structures & Algorithms:** Currently learning in C++
-- **Machine Learning:** Beginning with basics
+- Programming: C, C++, Python  
+- Core Concepts: Data Structures, OOP, DBMS  
 
-##  Current Goals
-- Master DSA in C++
-- Build ML projects after learning foundations
-- Create useful projects combining databases and programming
+## Currently Learning
 
-##  Repositories
-I upload:
-- Practice code
-- Mini-projects
-- Learning notes
+- Operating Systems  
+- Flutter (App Development)  
+- IoT Basics  
 
-##  Connect
-- LinkedIn: https://www.linkedin.com/in/shreyash-pagare-a307ba379?utm_source
-- Email: shreyashp110@gmail.com
+## Focus Areas
+
+- Data Structures & Algorithms (C++)  
+- Flutter App Development  
+- Core Computer Science Fundamentals  
+
+## Current Goals
+
+- Strengthen DSA problem-solving in C++  
+- Build Flutter-based mobile applications  
+- Apply CS fundamentals in real-world projects  
+
+## What I’m Building
+
+- DSA practice (topic-wise problems in C++)  
+- Mini projects using Flutter and Web  
+- Learning notes for CS fundamentals  
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/shreyash-pagare-a307ba379?utm_source  
+- Email: shreyashp110@gmail.com  
+
+
